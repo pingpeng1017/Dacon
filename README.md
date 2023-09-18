@@ -5,7 +5,7 @@
 - **프로젝트 기간**: 2023.04.18 ~ 2023.04.20
 - **프로젝트 이름 및 제목**: 서울시 마포구 따릉이 대여량 예측 경진대회
 - **프로젝트 설명 및 소개**: 서울시 마포구의 날짜별, 시간별 데이터를 바탕으로 따릉이 대여량을 예측합니다.
-- **링크**: [프로젝트 페이지](https://dacon.io/competitions/open/235576/overview/description)
+- **링크**: [대회 정보](https://dacon.io/competitions/open/235576/overview/description)🚲
 
 ### 데이터
 
